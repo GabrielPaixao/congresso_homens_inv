@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Cativou</string> 
+<string name="facebook_app_id">458572242658635</string>
+<string name="fb_login_protocol_scheme">fb458572242658635</string>
+</resources>
